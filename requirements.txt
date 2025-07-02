@@ -1,0 +1,9 @@
+flask
+requests
+discord.py
+cryptography
+numpy
+pandas
+pyyaml
+pytest
+aiohttp
